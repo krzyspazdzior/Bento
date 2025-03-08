@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'chatgpt',
+			icon: 'chatgpt',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '4',
@@ -77,13 +77,13 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Translator',
+			icon: 'translator',
+			link: 'https://translate.google.pl/?sl=auto&tl=pl&op=translate',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
 		},
