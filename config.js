@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Krzysztof',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'chatgpt',
-			icon: 'chatgpt',
-			link: 'https://chatgpt.com/',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Translator',
-			icon: 'translator',
-			link: 'https://translate.google.pl/?sl=auto&tl=pl&op=translate',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
